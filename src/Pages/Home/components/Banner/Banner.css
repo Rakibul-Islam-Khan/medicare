@@ -1,0 +1,12 @@
+.medicare-banner{
+    background-image: url('https://images.unsplash.com/photo-1603398938378-e54eab446dde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80');
+    background-position: center;
+    background-size: cover;
+    height: 640px;
+    background-repeat: no-repeat;
+}
+.medicare-img{
+    border-top-left-radius: 85px;
+    border-bottom-right-radius: 85px;
+    margin-top: 150px;
+}
